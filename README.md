@@ -23,6 +23,8 @@
 <h3>Let me know how could I help you</h3>
 <a href = "mailto: alexhumbertolds@gmail.com">📧 Email me</a>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lop19029&show_icons=true&locale=en&layout=compact" alt="lop19029" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lop19029&show_icons=true&locale=en" alt="lop19029" /></p>
