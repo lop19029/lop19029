@@ -24,7 +24,7 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
 <h3>🏋️I'm learning about</h3>
-<a href="https://camel.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Apache_Camel_Logo.svg/1200px-Apache_Camel_Logo.svg.png" alt="camel" width="40" height="20"/> </a>
+<a href="https://camel.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Apache_Camel_Logo.svg/1200px-Apache_Camel_Logo.svg.png" alt="camel" width="60" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 
 <h3>Let me know how could I help you</h3>
