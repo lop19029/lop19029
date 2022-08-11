@@ -11,9 +11,9 @@
 <li>Fun fact: I invented my own recipe to prepare pizza from scratch, and pretend I speak Italian every time I make one.😂🍕
 </ul>
 
-<h3>👨🏽‍💻Working on</h3>
+<!--h3>👨🏽‍💻Working on</h3>
 <p> CIT 365 .NET Software Development </p>
-<p> CIT 225 Database Design & Development </p>
+<p> CIT 225 Database Design & Development </p-->
  
 <h3>💪Ask me about</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
