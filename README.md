@@ -23,9 +23,9 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 
 
-<h3>🏋️Currently, sharpening my skills in</h3>
+<!-- <h3>🏋️Currently, sharpening my skills in</h3>
 <a href="https://cloud.google.com/apigee" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/a/84/apigee-edge.svg" alt="apigee" width="40" height="40"/></a>
-<a href="https://camel.apache.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com//images/A/apache-camel-logo-A89CA3F2F1-seeklogo.com.png" alt="apache camel" width="40" height="40"/></a>
+<a href="https://camel.apache.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com//images/A/apache-camel-logo-A89CA3F2F1-seeklogo.com.png" alt="apache camel" width="40" height="40"/></a> -->
 
 <!--a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a-->
